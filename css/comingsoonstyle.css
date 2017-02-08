@@ -1,0 +1,20 @@
+body{
+    padding:0px 0px 0px 0px;
+    z-index:0;
+}
+
+.row-footer{
+    background-color: #272623;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#ffffff;
+}
+
+#contactusmail{
+    color:
+}
